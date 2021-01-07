@@ -1,13 +1,11 @@
 ### Hi there 👋, I'm pracurser/system1970.I see that you're going through my repositories, Are you interested in them if so, here's a bit about me 
 🔭 I’m currently working on improving at competitive programming skills<br />
  I’m looking to collaborate, Any project is ok.<br />
+ - 💬 Ask me anything about Python or front end development
 <hr>
 📫 How to reach me:<br />
 Gmail: pracursergamedev@gmail.com/prabhakaran.code@gmail.com<br />
-WhatsApp: **none**<br />
-Discord: **Oops I Forgot**<br />
 <hr>
-📖 I’m currently learning to play the 🎹piano🎹
 
 <!--
 **system1970/system1970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
