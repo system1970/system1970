@@ -1,34 +1,44 @@
 ```python
 class Profile:
 	def __init__(self, name, hobby):
-    	self.name = name
-    	self.hobby = "My favourite hobby is " + hobby
+		self.name = name
+		self.hobby = "My favourite hobby is " + hobby
 		self.funfact = None
     	
 	def introduce(self):
-		print("Hi there, I'm {} nice to see you".format(self.name))
+		print("Hi there, I'm {}.".format(self.name))
 	
 	def greet(self, visitor):
-    	print(f"Hello, {visitor}")				
+		print(f"Hello, {visitor}")				
+	
+	def add_funfact(self,fact=None):
+		self.funfact = fact
 	
 	def get_funfact(self):
-		return self.funfact if self.funfact else "There's nothing interesting about me" 
+		return self.funfact if self.funfact else "There's nothing interesting about me :("
 ``` 
 
+<hr>
+
 ```python
-system1970 = Profile("system1970","procrastination")
-system1970.greet(Visitor.getName()) 
+>> system1970 = Profile("system1970","procrastination")
+>> system1970.introduce() 
 ```
+> Hi There, I'm system1970.
+```python
+>> system1970.get_funfact()
+```
+> There's nothing interesting about me :(
+```python
+>> system1970.add_funfact("Rumor has it system1970 sleeps more than snorlax")
+>> system1970.get_funfact()
+```
+> Rumor has it system1970 sleeps more than snorlax
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=system1970&amp;show_icons=true">
 
-##### Sidenote: I kinda messed up with the github API, that's the reason for the high number of commits
-
 If you're new to github watch this [tutorial](https://www.youtube.com/watch?v=lR_hYwCAaH4&ab_channel=TheCodingTrain) 
- 
-http://github.com - automatic!
-[GitHub](http://github.com)
 
  - 💬 Ask me anything about Python or front end development
 <hr>
