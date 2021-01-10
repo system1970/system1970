@@ -36,15 +36,19 @@ class Profile:
 > Rumor has it system1970 sleeps more than snorlax
 
 ## Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=system1970&show_icons=true&theme=radical" width="400" height="250">
+UwU
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=system1970&show_icons=true&theme=radical" width="400" height="350">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=system1970&layout=compact)](https://github.com/system1970/Sorting-Algorithms-Visualizer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=system1970&layout=compact)](https://github.com/system1970/)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=system1970)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=system1970" width="350" height="120">
 
 <hr>
 
 ## Where does this fit?
+
 <!--
 **system1970/system1970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
