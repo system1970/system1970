@@ -42,7 +42,7 @@ class Profile:
 
 ## Contacts
 <ul>
-     <li>Gmail: pracursergamedev@gmail.com/prabhakaran.code@gmail.com</li><br />
+     <li>Gmail: prabhakaran.code@gmail.com</li><br />
 </ul>
 
 <hr>
