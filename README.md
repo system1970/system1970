@@ -6,7 +6,7 @@ class Profile:
 		self.funfact = None
     	
 	def introduce(self):
-		print("Hi there, I'm {}.".format(self.name))
+		print("Hi there, I'm {}. My favoruite hobby is {}.".format(self.name,self.hobby))
 	
 	def greet(self, visitor):
 		print(f"Hello, {visitor}")				
@@ -24,7 +24,7 @@ class Profile:
 >> system1970 = Profile("system1970","procrastination")
 >> system1970.introduce() 
 ```
-> Hi There, I'm system1970.
+> Hi There, I'm system1970. My favourite hobby is procrastination.
 ```python
 >> system1970.get_funfact()
 ```
