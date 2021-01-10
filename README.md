@@ -47,7 +47,11 @@ class Profile:
 
 <hr>
 
-## Where does this fit?
+<!-- vars:START -->
+[1]: https://github-readme-stats.vercel.app/api?username=system1970&show_icons=true&theme=radical
+[2]: https://github-readme-stats.vercel.app/api/top-langs/?username=system1970&layout=compact "Language Stats"
+[3]: https://github-readme-stats.vercel.app/api/wakatime?username=system1970 "Coding Stats"
+<!-- vars:END -->
 
 <!--
 **system1970/system1970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
