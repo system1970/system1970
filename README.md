@@ -36,13 +36,9 @@ class Profile:
 > Rumor has it system1970 sleeps more than snorlax
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=system1970&amp;show_icons=true">
+![system1970's github stats](https://github-readme-stats.vercel.app/api?username=system1970&show_icons=true&theme=radical)
 
-If you're new to github watch this [tutorial](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&ab_channel=TheCodingTrain) 
-
- - 💬 Ask me anything about Python or front end development
-<hr>
-<h2>Contacts:<br /></h2>
+## Contacts
 <ul>
      <li>Gmail: pracursergamedev@gmail.com/prabhakaran.code@gmail.com</li><br />
 </ul>
