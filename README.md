@@ -40,12 +40,7 @@ class Profile:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=system1970&layout=compact)](https://github.com/system1970/Sorting-Algorithms-Visualizer)
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=system1970&layout=compact">
-
-## Contacts
-<ul>
-     <li>Gmail: prabhakaran.code@gmail.com</li><br />
-</ul>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=system1970)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
