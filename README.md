@@ -36,13 +36,18 @@ class Profile:
 > Rumor has it system1970 sleeps more than snorlax
 
 ## Github Stats
-![system1970's github stats](https://github-readme-stats.vercel.app/api?username=system1970&show_icons=true&theme=radical)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=system1970&show_icons=true&theme=radical" width="400" height="250">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=system1970&layout=compact)](https://github.com/system1970/Sorting-Algorithms-Visualizer)
 
 ## Contacts
 <ul>
      <li>Gmail: pracursergamedev@gmail.com/prabhakaran.code@gmail.com</li><br />
 </ul>
+
 <hr>
+
+## Where does this fit?
 <!--
 **system1970/system1970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
