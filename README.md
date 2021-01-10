@@ -47,17 +47,6 @@ class Profile:
 
 <hr>
 
----
-title: New Issue
-labels: bug, enhancement
----
-<!--#
-NOUN=mother
-ATTRIBUTION=Mark Wahlberg
-$-->
-
-"Say hi to your {{ NOUN }} for me," {{ ATTRIBUTION }}
-
 <!-- vars:START -->
 [1]: https://github-readme-stats.vercel.app/api?username=system1970&show_icons=true&theme=radical
 [2]: https://github-readme-stats.vercel.app/api/top-langs/?username=system1970&layout=compact "Language Stats"
