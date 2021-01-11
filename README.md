@@ -45,6 +45,14 @@ class Profile:
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=system1970" width="350" height="120">
 
+<a href="https://github.com/system1970/CodeCommit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=system1970&repo=CodeCommit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
+<a href="https://github.com/system1970/system1970.github.io">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=system1970&repo=system1970.github.io&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
 <hr>
 
 <!-- vars:START -->
