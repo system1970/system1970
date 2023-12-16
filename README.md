@@ -21,19 +21,19 @@ class Profile:
 <hr>
 
 ```python
->> system1970 = Profile("system1970","procrastination")
+>> system1970 = Profile("system1970","Learning")
 >> system1970.introduce() 
 ```
-> Hi There, I'm system1970. My favourite hobby is procrastination.
+> Hi There, I'm system1970. My favourite hobby is Learning.
 ```python
 >> system1970.get_funfact()
 ```
 > There's nothing interesting about me :(
 ```python
->> system1970.add_funfact("Rumor has it system1970 sleeps more than snorlax")
+>> system1970.add_funfact("System1970 Loves AI")
 >> system1970.get_funfact()
 ```
-> Rumor has it system1970 sleeps more than snorlax
+> System1970 Loves AI
 
 ## Stats
 
